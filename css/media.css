@@ -1,0 +1,97 @@
+@media screen and (min-width: 0px) and (max-width: 576px) {
+  .navbar-social-icons {
+    visibility: hidden;
+  }
+  .header-title {
+    font-size: 3.5rem;
+  }
+  .header-p {
+    font-size: 1rem;
+  }
+  .btn {
+    padding: 0.4rem 1rem;
+  }
+  .section-title {
+    margin: auto;
+    text-align: center;
+  }
+  .center-sm {
+    text-align: center;
+  }
+  .gutter-5px {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .map {
+    height: 500;
+  }
+}
+@media screen and (min-width: 577px) and (max-width: 768px) {
+  .navbar-social-icons {
+    visibility: hidden;
+  }
+  .header-title {
+    font-size: 4.5rem;
+  }
+  .header-p {
+    font-size: 1.5rem;
+  }
+  .btn {
+    padding: 0.4rem 1rem;
+  }
+  .section-title {
+    margin: auto;
+    text-align: center;
+  }
+  .center-sm {
+    text-align: center;
+  }
+  .gutter-5px {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .customer-card {
+    width: 100%;
+  }
+  .carousel-control-prev {
+    visibility: hidden;
+  }
+  .carousel-control-next {
+    visibility: hidden;
+  }
+  .map {
+    height: 500px;
+  }
+}
+@media screen and (min-width: 769px) and (max-width: 992px) {
+  .navbar-social-icons {
+    visibility: hidden;
+  }
+  .section-title {
+    margin: auto;
+    text-align: center;
+  }
+  .center-sm {
+    text-align: center;
+  }
+  .gutter-5px {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .special-card {
+    padding-top: 1.3rem;
+    padding-bottom: 1.3rem;
+  }
+  .customer-card {
+    width: 100%;
+  }
+  .carousel-control-prev {
+    visibility: hidden;
+  }
+  .carousel-control-next {
+    visibility: hidden;
+  }
+  .map {
+    height: 500px;
+  }
+}
